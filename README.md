@@ -6,6 +6,13 @@ a full personalized roadmap with motivation guidance.
 
 ---
 
+## Problem Statement
+
+1. Many graduates struggle to identify courses aligned with their career goals.
+2. Lack of guidance leads to confusion and delays in starting careers.
+
+---
+
 ### 🚀 Live Demo
 🔗 Deployed on Streamlit Cloud  
 ([Click to open Link](https://nxtwave-pulkitdubey.streamlit.app/))

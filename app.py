@@ -163,4 +163,9 @@ if st.button("🚀 Generate My Career Roadmap"):
 
 
 st.write("---")
-st.markdown("<p style='text-align:center;'>Made with ❤️ by <b>Pulkit Dubey</b></p>", unsafe_allow_html=True)
+st.markdown(
+    "<p style='text-align:center;'>Made with ❤️ by "
+    "<a href='https://pulkitdubey.netlify.app/' target='_blank'><b>Pulkit Dubey</b></a>"
+    "</p>",
+    unsafe_allow_html=True
+)

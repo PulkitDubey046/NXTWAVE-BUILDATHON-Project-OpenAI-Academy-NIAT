@@ -33,10 +33,10 @@ a full personalized roadmap with motivation guidance.
 ## 🔑 Environment Variables
 
 Add these as **Secrets** in Streamlit Cloud:
-
- OPENAI_API_KEY = "your_openai_key"
- GOOGLE_API_KEY = "your_gemini_key"
-
+```bash
+OPENAI_API_KEY = "your_openai_key"
+GOOGLE_API_KEY = "your_gemini_key"
+```
 ---
 
 ## ▶ Run Locally
@@ -49,4 +49,5 @@ streamlit run app.py
 ## 📌 Author
 
 👨‍💻 Developed by Pulkit Dubey (Team 46Dubey)
-Made with ❤️ during Buildathon
+
+Made with ❤️ during Buildathon (22 Nov - 23 Nov)

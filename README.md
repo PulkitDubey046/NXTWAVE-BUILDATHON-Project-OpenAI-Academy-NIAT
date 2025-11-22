@@ -8,7 +8,7 @@ a full personalized roadmap with motivation guidance.
 
 ### 🚀 Live Demo
 🔗 Deployed on Streamlit Cloud  
-(Your deployment link will go here after hosting)
+([Click to open Link](https://nxtwave-pulkitdubey.streamlit.app/))
 
 ---
 

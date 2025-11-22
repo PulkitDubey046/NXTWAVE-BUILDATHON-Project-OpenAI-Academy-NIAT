@@ -1,0 +1,12 @@
+# Ignore Streamlit local secrets and internal metadata
+.streamlit/secrets.toml
+.streamlit/credentials.toml
+
+# Ignore Python virtual environment
+venv/
+.env
+
+# Ignore cache and system files
+__pycache__/
+*.pyc
+.DS_Store

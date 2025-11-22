@@ -1,5 +1,6 @@
 streamlit
-openai
-google-generativeai
 python-dotenv
-reportlab   
+reportlab
+markdown2
+google-generativeai
+openai
